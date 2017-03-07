@@ -1,1 +1,2 @@
 # AprioriDataMining
+# aprioriRuleGeneration
